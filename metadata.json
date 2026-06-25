@@ -1,0 +1,8 @@
+{
+  "name": "DevMemory",
+  "description": "Your AI pair programmer that never forgets your codebase. Powered by a hybrid graph-vector memory engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
